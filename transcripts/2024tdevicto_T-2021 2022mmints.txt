@@ -1,0 +1,672 @@
+2024tdevicto,T-2021 2022mmints
+  1 2 3 4 5 6 7 8
+1 . . . . . . . . 
+2 . . . . . . . . 
+3 . . . * . . . . 
+4 . . * o x . . . 
+5 . . . x o * . . 
+6 . . . . * . . . 
+7 . . . . . . . . 
+8 . . . . . . . . 
+2-2 - to -10
+
+  1 2 3 4 5 6 7 8
+1 . . . . . . . . 
+2 . . . . . . . . 
+3 . . * x * . . . 
+4 . . . x x . . . 
+5 . . * x o . . . 
+6 . . . . . . . . 
+7 . . . . . . . . 
+8 . . . . . . . . 
+4-1 x to 19
+
+  1 2 3 4 5 6 7 8
+1 . . . . . . . . 
+2 . . . . . . . . 
+3 . * o x . . . . 
+4 . . * o x . . . 
+5 . . . x o * . . 
+6 . . . . * . . . 
+7 . . . . . . . . 
+8 . . . . . . . . 
+3-3 o to 18
+
+  1 2 3 4 5 6 7 8
+1 . . . . . . . . 
+2 . . . . . . . . 
+3 . . o x * . . . 
+4 . . x x x . . . 
+5 . . * x o . . . 
+6 . . . . . . . . 
+7 . . . . . . . . 
+8 . . . . . . . . 
+5-2 x to 26
+
+  1 2 3 4 5 6 7 8
+1 . . . . . . . . 
+2 . * . . . . . . 
+3 . * o x . . . . 
+4 . * o x x . . . 
+5 . * o o o . . . 
+6 . * * * * * . . 
+7 . . . . . . . . 
+8 . . . . . . . . 
+3-5 o to 34
+
+  1 2 3 4 5 6 7 8
+1 . . . . . . . . 
+2 . . . * * . . . 
+3 . . o x * * . . 
+4 . . o x x * . . 
+5 . * x o o . . . 
+6 . x * . . . . . 
+7 . . . . . . . . 
+8 . . . . . . . . 
+5-4 x to 41
+
+  1 2 3 4 5 6 7 8
+1 . . . . . . . . 
+2 . * * * . * . . 
+3 . . o o o . . . 
+4 . * o x o * . . 
+5 . . x o o * . . 
+6 . x . * . * . . 
+7 . . . . . . . . 
+8 . . . . . . . . 
+3-7 o to 20
+
+  1 2 3 4 5 6 7 8
+1 . . * * * . . . 
+2 . . * x * . . . 
+3 . . o x o . . . 
+4 . . o x o . . . 
+5 . * x o o . . . 
+6 . x * . . . . . 
+7 * . . . . . . . 
+8 . . . . . . . . 
+5-6 x to 11
+
+  1 2 3 4 5 6 7 8
+1 . . * . . . . . 
+2 . * o x . * . . 
+3 . . o o o . . . 
+4 . * o x o * . . 
+5 . . x o o * . . 
+6 . x . * . * . . 
+7 . . . . . . . . 
+8 . . . . . . . . 
+4-8 o to 10
+
+  1 2 3 4 5 6 7 8
+1 . * x * . . . . 
+2 . * x x . . . . 
+3 . * x o o . . . 
+4 . * x x o . . . 
+5 . * x o o . . . 
+6 . x . . . . . . 
+7 * . . . . . . . 
+8 . . . . . . . . 
+8-5 x to 2
+
+  1 2 3 4 5 6 7 8
+1 . . x . . . . . 
+2 . . x x . * . . 
+3 * . x o o * . . 
+4 . o o o o * . . 
+5 * . x o o * . . 
+6 . x . * . * . . 
+7 . . . . . . . . 
+8 . . . . . . . . 
+6-8 o to 25
+
+  1 2 3 4 5 6 7 8
+1 . * x . * . . . 
+2 . * x x * . . . 
+3 . * x x o . . . 
+4 . o o x o . . . 
+5 . * x x o . . . 
+6 . x * x * . . . 
+7 * . * . * . . . 
+8 . . . . . . . . 
+10-5 x to 43
+
+  1 2 3 4 5 6 7 8
+1 . . x . . . . . 
+2 . . x x o * . . 
+3 * * x o o * . . 
+4 * o o x o * . . 
+5 * . x x o * . . 
+6 . x . x . * . . 
+7 . . . . . . . . 
+8 . . . . . . . . 
+9-7 o to 12
+
+  1 2 3 4 5 6 7 8
+1 . . x . * . . . 
+2 . * x x o . . . 
+3 . . x x x x . . 
+4 . o o x x * * . 
+5 . * x x o . . . 
+6 . x * x * . . . 
+7 . . * . * . . . 
+8 . . . . . . . . 
+13-4 x to 21
+
+  1 2 3 4 5 6 7 8
+1 . . x * * * . . 
+2 . . x x o * . . 
+3 * . x x x x . . 
+4 * o o x x * . . 
+5 * * x o o * . . 
+6 . x * x o * . . 
+7 . . . . * . . . 
+8 . . . . . . . . 
+12-6 o to 44
+
+  1 2 3 4 5 6 7 8
+1 . . x x * * . . 
+2 . * x x x . * . 
+3 . . x x x x . . 
+4 . o o x x * . . 
+5 . * x o o . . . 
+6 . x * x o . . . 
+7 . . * * * . . . 
+8 . . . . . . . . 
+14-5 x to 3
+
+  1 2 3 4 5 6 7 8
+1 . . x x . . . . 
+2 . . x x x . . . 
+3 * * x x x x . . 
+4 * o o x x * . . 
+5 * o o o o . . . 
+6 * x * x o * . . 
+7 . . . . * . . . 
+8 . . . . . . . . 
+13-7 o to 33
+
+  1 2 3 4 5 6 7 8
+1 . . x x * * . . 
+2 . * x x x . . . 
+3 . * x x x x . . 
+4 . o x x x * . . 
+5 . o x x o . . . 
+6 * x x x o . . . 
+7 . * * * * . . . 
+8 . . . . . . . . 
+17-4 x to 42
+
+  1 2 3 4 5 6 7 8
+1 . . x x . . . . 
+2 . . x x x . . . 
+3 . * x x x x . . 
+4 * o x x x . . . 
+5 * o o x o * . . 
+6 * x x o o * . . 
+7 . . . * o * . . 
+8 . . . . * . . . 
+15-7 o to 52
+
+  1 2 3 4 5 6 7 8
+1 . . x x * . . . 
+2 . * x x x * . . 
+3 . * x x x x . . 
+4 . o x x x * . . 
+5 * x o x o . . . 
+6 x x x o o . . . 
+7 * * * . o . . . 
+8 . . . . . . . . 
+17-6 x to 40
+
+  1 2 3 4 5 6 7 8
+1 . . x x . . . . 
+2 . . x x x . . . 
+3 . * x x x x . . 
+4 . o o o o o . . 
+5 * x o x o * * . 
+6 x x x o o * . . 
+7 . . . * o * . . 
+8 . . . . * . . . 
+14-10 o to 29
+
+  1 2 3 4 5 6 7 8
+1 . * x x * * . . 
+2 . * x x x * * . 
+3 * . x x x x . . 
+4 * x o o o o . . 
+5 x x o x o . . . 
+6 x x x o o . . . 
+7 * * * . o . . . 
+8 . . . . . . . . 
+16-9 x to 32
+
+  1 2 3 4 5 6 7 8
+1 . . x x . . . . 
+2 . . x x x . . . 
+3 o * x x x x . . 
+4 . o o o o o . . 
+5 x x o x o * * . 
+6 x x x o o * . . 
+7 . . . * o * . . 
+8 . . . . * . . . 
+15-11 o to 16
+
+  1 2 3 4 5 6 7 8
+1 . * x x * . . . 
+2 * * x x x * * . 
+3 o x x x x x * . 
+4 * x x o o o . . 
+5 x x o x o . . . 
+6 x x x o o . . . 
+7 * * * . o . . . 
+8 . . . . . . . . 
+18-9 x to 17
+
+  1 2 3 4 5 6 7 8
+1 . . x x . . . . 
+2 * . x x x . . . 
+3 o x x x x x . . 
+4 o o o o o o . . 
+5 x x o x o * * . 
+6 x x x o o * . . 
+7 . . . * o * . . 
+8 . . . . * . . . 
+16-12 o to 24
+
+  1 2 3 4 5 6 7 8
+1 . * x x * * . . 
+2 x * x x x * * . 
+3 x x x x x x . . 
+4 x o o o o o . . 
+5 x x o x o . . . 
+6 x x x o o . . . 
+7 * * * . o . . . 
+8 . . . . . . . . 
+19-10 x to 8
+
+  1 2 3 4 5 6 7 8
+1 . . x x . . * . 
+2 x . x x x o * . 
+3 x x x x o o * . 
+4 x o o o o o * . 
+5 x x o x o * * . 
+6 x x x o o * . . 
+7 . . . * o * . . 
+8 . . . . * * . . 
+17-13 o to 13
+
+  1 2 3 4 5 6 7 8
+1 . * x x * * x . 
+2 x * x x x x . . 
+3 x x x x x o . . 
+4 x o o x o o . . 
+5 x x x x o . . . 
+6 x x x o o . . . 
+7 . * * . o . . . 
+8 . . . . . . . . 
+22-9 x to 6
+
+  1 2 3 4 5 6 7 8
+1 . . x x . . x . 
+2 x . x x x x * . 
+3 x x x x x o * . 
+4 x o o x o o * . 
+5 x x o x o * * . 
+6 x x o o o * . . 
+7 . * o * o * . . 
+8 . . * * * * . . 
+20-12 o to 50
+
+  1 2 3 4 5 6 7 8
+1 . * x x * * x . 
+2 x * x x x x . . 
+3 x x x x x o . . 
+4 x o x x o o . . 
+5 x x x x o . . . 
+6 x x x o o . . . 
+7 . * x . o . . . 
+8 . * x . . . . . 
+25-8 x to 58
+
+  1 2 3 4 5 6 7 8
+1 . * x x . . x . 
+2 x o x x x x * . 
+3 x o o x x o * . 
+4 x o x o o o * . 
+5 x x x x o * * . 
+6 x x x o o * . . 
+7 . . x * o * . . 
+8 . . x . * * . . 
+22-12 o to 9
+
+  1 2 3 4 5 6 7 8
+1 . * x x * * x . 
+2 x o x x x x * . 
+3 x o o x x o . . 
+4 x o x o o o . . 
+5 x x x x o . . . 
+6 x x x x o . . . 
+7 * * x x o . . . 
+8 . * x * . . . . 
+24-11 x to 51
+
+  1 2 3 4 5 6 7 8
+1 . * x x . . x . 
+2 x o x x x x * . 
+3 x o o x x o * . 
+4 x o x o o o * . 
+5 x x x o o * * . 
+6 x x x o o * . . 
+7 . . x o o * . . 
+8 . . x o * * . . 
+21-15 o to 59
+
+  1 2 3 4 5 6 7 8
+1 . * x x * * x . 
+2 x o x x x x * . 
+3 x o o x x o . . 
+4 x o x o o o . . 
+5 x x x o o * * . 
+6 x x x x x x . . 
+7 * * x o o * * . 
+8 . * x o . . . . 
+24-13 x to 45
+
+  1 2 3 4 5 6 7 8
+1 . * x x . . x . 
+2 x o x x x x * . 
+3 x o o x x o * . 
+4 x o x o o o * . 
+5 x x x o o * o . 
+6 x x x x x o * * 
+7 . . x o o * . . 
+8 . . x o * * . . 
+23-15 o to 38
+
+  1 2 3 4 5 6 7 8
+1 . * x x * * x . 
+2 x o x x x x * . 
+3 x o o x x o . . 
+4 x o x o o o . . 
+5 x x x o o . o . 
+6 x x x x x o . . 
+7 * * x x x * . . 
+8 . * x x x * . . 
+27-12 x to 60
+
+  1 2 3 4 5 6 7 8
+1 . * x x . . x . 
+2 x o x x x x * . 
+3 x o o x x o * . 
+4 x o x o o o * * 
+5 x x o o o * o . 
+6 x x x o x o * * 
+7 . . x x o * . . 
+8 . . x x x o * . 
+24-16 o to 61
+
+  1 2 3 4 5 6 7 8
+1 . * x x * * x . 
+2 x o x x x x * . 
+3 x o o x x o . . 
+4 x o x o o o . . 
+5 x x o o o . o . 
+6 x x x o x o . . 
+7 * * x x o * . . 
+8 . * x x x x x . 
+26-15 x to 62
+
+  1 2 3 4 5 6 7 8
+1 . * x x . . x . 
+2 x o x x x x * . 
+3 x o o x x o * . 
+4 x o x o o o * * 
+5 x x o o o * o . 
+6 x x x o o o * * 
+7 . . x x o o * . 
+8 . . x x x x x . 
+25-17 o to 53
+
+  1 2 3 4 5 6 7 8
+1 . * x x * * x . 
+2 x o x x x x * . 
+3 x o o x x o . . 
+4 x o x o o o . . 
+5 x x o o o . o . 
+6 x x x x x x x . 
+7 * * x x o x * . 
+8 . * x x x x x . 
+30-13 x to 46
+
+  1 2 3 4 5 6 7 8
+1 * * x x * o x . 
+2 x o x x x o * . 
+3 x o o x x o * . 
+4 x o x o o o * * 
+5 x x o o o * o . 
+6 x x x x x x x * 
+7 . . x x o x . . 
+8 . . x x x x x . 
+29-15 o to 5
+
+  1 2 3 4 5 6 7 8
+1 . * x x x x x . 
+2 x o x x x o . . 
+3 x o o x x o . . 
+4 x o x o o o . . 
+5 x x o o o . o . 
+6 x x x x x x x . 
+7 * * x x o x * . 
+8 . * x x x x x . 
+31-14 x to 4
+
+  1 2 3 4 5 6 7 8
+1 * o x x x x x . 
+2 x o o x x o * . 
+3 x o o o x o * . 
+4 x o x o o o * * 
+5 x x o o o * o . 
+6 x x x x x x x * 
+7 . . x x o x . . 
+8 . . x x x x x . 
+29-17 o to 1
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o . . 
+3 x o x o x o . . 
+4 x o x x o o . . 
+5 x x o o x * o . 
+6 x x x x x x x . 
+7 * * x x o x * . 
+8 . * x x x x x . 
+35-12 x to 0
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o * . 
+3 x o x o x o * . 
+4 x o x x o o * * 
+5 x x o o o o o * 
+6 x x x x x x x * 
+7 . . x x o x . . 
+8 . . x x x x x . 
+34-14 o to 37
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o . . 
+3 x o x o x o . . 
+4 x o x x o o . * 
+5 x x x x x x x x 
+6 x x x x x x x * 
+7 * * x x o x * * 
+8 . * x x x x x . 
+40-9 x to 39
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o * . 
+3 x o x o x o * . 
+4 x o x x o o * * 
+5 x x x x x x o x 
+6 x x x x x x x o 
+7 . . x x o x . * 
+8 . . x x x x x . 
+39-11 o to 47
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o . . 
+3 x o x o x o . . 
+4 x o x x o o . . 
+5 x x x x x x o x 
+6 x x x x x x x x 
+7 * * x x o x * x 
+8 . * x x x x x . 
+41-10 x to 55
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o * . 
+3 x o x o o o * . 
+4 x o x o o o * * 
+5 x x o x x x o x 
+6 x o x x x x x x 
+7 o * x x o x . x 
+8 * . x x x x x . 
+37-15 o to 48
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o . . 
+3 x o x o o o . . 
+4 x o x o o o . x 
+5 x x o x x x x x 
+6 x o x x x x x x 
+7 o * x x o x * x 
+8 . * x x x x x . 
+39-14 x to 31
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o * . 
+3 x o x o o o * . 
+4 x o x o o o * x 
+5 x x o x o x x x 
+6 x o x x x o x x 
+7 o * x x o o o x 
+8 * . x x x x x * 
+36-18 o to 54
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o . . 
+3 x o x o o o . . 
+4 x o x x o o . x 
+5 x x o x x x x x 
+6 x o x x x x x x 
+7 o * x x o o x x 
+8 . * x x x x x x 
+41-14 x to 63
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o * . 
+3 x o x o o o * . 
+4 x o x x o o * x 
+5 x x o x o x x x 
+6 x o x o x x x x 
+7 o * o x o o x x 
+8 * o x x x x x x 
+38-18 o to 57
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o . . 
+3 x o x o o x * . 
+4 x o x x x x x x 
+5 x x o x o x x x 
+6 x o x o x x x x 
+7 o . o x o o x x 
+8 . o x x x x x x 
+42-15 x to 30
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o * . 
+3 x o x o o o o * 
+4 x o x x x o x x 
+5 x x o x o x x x 
+6 x o x o x x x x 
+7 o * o x o o x x 
+8 * o x x x x x x 
+40-18 o to 22
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x . 
+2 x x o x x o . * 
+3 x o x x x x x x 
+4 x o x x x o x x 
+5 x x o x o x x x 
+6 x o x o x x x x 
+7 o . o x o o x x 
+8 . o x x x x x x 
+45-14 x to 23
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x * 
+2 x x o x x o * o 
+3 x o x x x x o x 
+4 x o x x x o x x 
+5 x x o x o x x x 
+6 x o x o x x x x 
+7 o * o x o o x x 
+8 * o x x x x x x 
+44-16 o to 15
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x x 
+2 x x o x x o * x 
+3 x o x x x x o x 
+4 x o x x x o x x 
+5 x x o x o x x x 
+6 x o x o x x x x 
+7 o * o x o o x x 
+8 * o x x x x x x 
+46-15 x to 7
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x x 
+2 x x o x x o * x 
+3 x o x x x x o x 
+4 x o x x x o x x 
+5 x x o x o x x x 
+6 x o x o x x x x 
+7 x * o x o o x x 
+8 x x x x x x x x 
+49-13 x to 56
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x x 
+2 x x o x x x x x 
+3 x o x x x x x x 
+4 x o x x x o x x 
+5 x x o x o x x x 
+6 x o x o x x x x 
+7 x * o x o o x x 
+8 x x x x x x x x 
+52-11 x to 14
+
+  1 2 3 4 5 6 7 8
+1 x x x x x x x x 
+2 x x o x x x x x 
+3 x o x x x x x x 
+4 x o x x x o x x 
+5 x x o x o x x x 
+6 x x x o x x x x 
+7 x x x x o o x x 
+8 x x x x x x x x 
+55-9 x to 49
+
